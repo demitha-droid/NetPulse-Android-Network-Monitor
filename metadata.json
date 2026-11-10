@@ -1,0 +1,6 @@
+{
+  "name": "NetPulse Android Network Monitor",
+  "description": "Battery-efficient Android network connection monitor with per-app bandwidth tracking, abnormal data usage alerts, custom daily limits, monthly application reports, real-time home screen traffic widget, and data history export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
